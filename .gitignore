@@ -1,0 +1,12 @@
+# Local secrets
+/.env
+
+# Python virtual environment and caches
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local input files and generated results
+/inputs/
+/outputs/
